@@ -1,5 +1,4 @@
 #Atividade 7, Avaliação Final-Python-22/06/2022
-#Aluno:Renato do Nascimento Júnior, RA:226588
 
 #Biblioteca utilizada para converter números em palavras
 from num2words import num2words
